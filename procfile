@@ -1,1 +1,1 @@
-web: gunicorn MRJ.wsgi
+web:gunicorn MRJ.wsgi
